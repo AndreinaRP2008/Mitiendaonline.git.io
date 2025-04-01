@@ -43,7 +43,7 @@ const swiper = new Swiper('.slider-wrapper', {
   });
 
   // Inicializa EmailJS con tu User ID
-emailjs.init('TU_USER_ID');
+emailjs.init('VlSVjsqe96ln1wVn-');
 
 // Función para enviar el mensaje
 function sendEmail() {
